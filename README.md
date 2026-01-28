@@ -76,7 +76,7 @@ I'm **Kunjan Shaileshkumar Solanki** (`@kunjansolanki`) — an **ECE undergradua
         <sub>GitHub</sub>
       </td>
 
-      <!-- Add your real LinkedIn if you want -->
+      <!-- https://www.linkedin.com/in/kunjan-solanki-a5508b383/ -->
       <td align="center">
         <a href="#">
           <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
