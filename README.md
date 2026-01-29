@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 About Me  
-I'm **Kunjan Shaileshkumar Solanki** (`Kunjan2005`) — an **ECE undergraduate** passionate about building **real-world engineering projects** across hardware and software.
+I'm **Kunjan Shaileshkumar Solanki** (`@Kunjan2005`) — an **ECE undergraduate** passionate about building **real-world engineering projects** across hardware and software.
 
 - Interests: **VLSI, Embedded Systems, Networking, ML**
 - I enjoy working with: **Verilog, ESP32, Python, Linux**
@@ -30,7 +30,7 @@ I'm **Kunjan Shaileshkumar Solanki** (`Kunjan2005`) — an **ECE undergraduate**
 ---
 
 ### 🐍 GitHub Contribution Snake
-![GitHub Snake Dark](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Kunjan2005/Kunjan2005/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -54,11 +54,13 @@ I'm **Kunjan Shaileshkumar Solanki** (`Kunjan2005`) — an **ECE undergraduate**
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Kunjan's%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunjan2005&custom_title=Kunjan's%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" />
+
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunjan2005&show_icons=true&theme=dark&hide_border=true" width="420" />
+
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunjan2005&theme=dark" width="420" />
 </div>
 
 ---
@@ -69,7 +71,7 @@ I'm **Kunjan Shaileshkumar Solanki** (`Kunjan2005`) — an **ECE undergraduate**
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/YOUR_USERNAME">
+        <a href="https://github.com/Kunjan2005">
           <img src="https://skillicons.dev/icons?i=github" height="40" />
         </a><br>
         <sub>GitHub</sub>
@@ -87,7 +89,7 @@ I'm **Kunjan Shaileshkumar Solanki** (`Kunjan2005`) — an **ECE undergraduate**
 
 ---
 
-⭐️ From [Kunjan Solanki](https://github.com/YOUR_USERNAME)  
+⭐️ From [Kunjan Solanki](https://github.com/Kunjan2005)  
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="30px" />
 
 <div align="center">
