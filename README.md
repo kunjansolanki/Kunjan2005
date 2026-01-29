@@ -67,27 +67,27 @@ I'm **Kunjan Shaileshkumar Solanki** (`@Kunjan2005`) — an **ECE undergraduate*
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Kunjan2005">
-          <img src="https://skillicons.dev/icons?i=github" height="40" />
-        </a><br>
-        <sub>GitHub</sub>
-      </td>
 
-      <td align="center">
-        <a href="https://www.linkedin.com/in/kunjan-solanki-a5508b383/">
-          <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-        </a><br>
-        <sub>LinkedIn</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+✅ Correct (no backticks at all):
+```md
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Kunjan2005">
+        <img src="https://skillicons.dev/icons?i=github" height="40" />
+      </a><br>
+      <sub>GitHub</sub>
+    </td>
 
----
+    <td align="center">
+      <a href="https://www.linkedin.com/in/kunjan-solanki-a5508b383/">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+      </a><br>
+      <sub>LinkedIn</sub>
+    </td>
+  </tr>
+</table>
+
 
 ⭐️ From [Kunjan Solanki](https://github.com/Kunjan2005)  
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="30px" />
